@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Managers\ManagerDialogos1_5B.js">
+    <Files>
+      <File FileName="Assets\Scripts\Managers\ManagerDialogos1_5B.js" Line="573" Column="18" />
+      <File FileName="Assets\Scripts\Managers\Manager1_5B.js" Line="27" Column="98" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
